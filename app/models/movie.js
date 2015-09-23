@@ -5,5 +5,6 @@ export default DS.Model.extend({
   director: DS.attr(),
   year: DS.attr(),
   run_time: DS.attr(),
-  description: DS.attr()
+  description: DS.attr(),
+  image: DS.attr()
 });

@@ -1,0 +1,11 @@
+.col-md-4 {
+  max-height: 300px;
+
+}
+
+.post img {
+    width: 350px;
+    line-height: 200px;
+    text-align:center;
+
+}

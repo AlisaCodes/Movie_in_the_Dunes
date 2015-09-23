@@ -1,28 +1,55 @@
 { "movies": [{
-  "title": "Morvern Caller",
+  "title": "Morvern Callar",
   "director": "Lynne Ramsay",
   "year": "2002",
   "run_time": "1hr 37min",
-  "description": "something for now"
+  "description": "something for now",
+  "image": "http://s3.amazonaws.com/auteurs_production/images/film/morvern-callar/w448/morvern-callar.jpg"
   }, {
   "title": "Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles",
   "director": "Chantal Akerman",
   "year": "1975",
   "run_time": "3hr 45min",
-  "description": "something for now"
+  "description": "something for now",
+  "image": "http://ilarge.lisimg.com/image/2114787/968full-jeanne-dielman,-23-quai-du-commerce,-1080-bruxelles-screenshot.jpg"
   }, {
   "title": "Beaches of Agnes",
   "director": "Agnes Varda",
   "year": "2008",
   "run_time": "1hr 50min",
-  "description": "something for now"
+  "description": "something for now",
+  "image": "http://mmimageslarge.moviemail-online.co.uk/the-beaches-of-agnes-27846_1.jpg"
   }, {
   "title": "Downtown 81",
   "director": "Edo Bertoglio",
   "year": "2000",
   "run_time": "1hr 15min",
-  "description": "something for now"
+  "description": "something for now",
+  "image": "http://www.austinfilm.org/image/Downtown81.jpg"
 
+  }, {
+  "title": "Before Night Falls",
+  "director": "Julian Schnabel",
+  "year": "2000",
+  "run_time": "1hr 33min",
+  "description": "something for now",
+  "image": "http://www.deppimpact.com/gallery/albums/caps_before/bnf037.JPG"
+
+  }, {
+  "title": "Farewell My Concubine",
+  "director": "Kaige Chen",
+  "year": "2000",
+  "run_time": "2hr 11min",
+  "description": "something for now",
+  "image": "http://i.ytimg.com/vi/3MfMBEjFWEI/maxresdefault.jpg"
+
+  }, {
+  "title": "The World of Apu",
+  "director": "Satyajit Ray",
+  "year": "2000",
+  "run_time": "1hr 45min",
+  "description": "something for now",
+  "image": "http://s3.amazonaws.com/auteurs_production/post_images/18612/APU_.jpg?1431333097"
 
   }]
 }
