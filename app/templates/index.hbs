@@ -1,1 +1,9 @@
 {{outlet}}
+
+<h1>Movies in the Dunes</h1>
+
+<ul>
+  {{#each model as |movie|}}
+    {{movie-tile movie=movie}}
+  {{/each}}
+</ul>

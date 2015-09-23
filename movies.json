@@ -1,0 +1,28 @@
+{ "movies": [{
+  "title": "Morvern Caller",
+  "director": "Lynne Ramsay",
+  "year": "2002",
+  "run_time": "1hr 37min",
+  "description": "something for now"
+  }, {
+  "title": "Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles",
+  "director": "Chantal Akerman",
+  "year": "1975",
+  "run_time": "3hr 45min",
+  "description": "something for now"
+  }, {
+  "title": "Beaches of Agnes",
+  "director": "Agnes Varda",
+  "year": "2008",
+  "run_time": "1hr 50min",
+  "description": "something for now"
+  }, {
+  "title": "Downtown 81",
+  "director": "Edo Bertoglio",
+  "year": "2000",
+  "run_time": "1hr 15min",
+  "description": "something for now"
+
+
+  }]
+}
