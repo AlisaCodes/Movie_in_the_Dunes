@@ -6,10 +6,14 @@ export default Ember.Route.extend({
   },
 
   actions: {
+    save3(params) {
+     var newMovie = this.store.createRecord('movie', params);
+     newMovie.save();
+     this.transitionTo('index');
+    },
    destroyMovie(movie) {
      movie.destroyRecord();
      this.transitionTo('index');
-   }
- }
-
+    }
+  }
 });

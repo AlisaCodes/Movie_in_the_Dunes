@@ -1,0 +1,40 @@
+{{#if addNewMovie}}
+<h1>New Rental</h1>
+  <div>
+    <form>
+      <div class="form-group">
+        <label for="title">Title</label>
+        {{input value=title id="title"}}
+      </div>
+
+      <div class="form-group">
+        <label for="director">Director</label>
+        {{input value=director id="director"}}
+      </div>
+
+      <div class="form-group">
+        <label for="year">Year</label>
+        {{input value=year id="year"}}
+      </div>
+
+      <div class="form-group">
+        <label for="run_time">Run Time</label>
+        {{input value=run_time id="run_time"}}
+      </div>
+
+      <div class="form-group">
+        <label for="image">Image URL</label>
+        {{input value=image id="image"}}
+      </div>
+
+      <div class="form-group">
+        <label for="description">Description</label>
+        {{input value=description id="description"}}
+      </div>
+
+      <button {{action 'save1'}}>Save</button>
+    </form>
+  </div>
+{{else}}
+  <button {{action 'movieFormShow'}}>New Movie</button>
+{{/if}}
