@@ -9,6 +9,7 @@ Router.map(function() {
   this.route('movie', {path: '/movie/:movie_id'});
   this.route('about');
   this.route('contact');
+  this.route('admin');
 });
 
 export default Router;

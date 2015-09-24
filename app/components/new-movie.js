@@ -18,7 +18,7 @@ export default Ember.Component.extend({
 
       };
       this.set('addNewMovie', false),
-      this.sendAction('save2', params);
+      this.sendAction('save2', params)
     }
   }
 });
