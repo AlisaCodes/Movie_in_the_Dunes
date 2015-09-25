@@ -10,5 +10,14 @@
 <br>
 <img src={{model.image}}>
 
+<ul>
 
-{{single-movie movie=model}}
+{{#each model.comments as |comment|}}
+<li>{{comment.username}}
+<li>{{comment.feedback}}
+</li></li>
+{{/each}}
+
+</ul>
+
+{{comment-tile movie=model addComment="addComment"}}

@@ -50,6 +50,10 @@
   "run_time": "1hr 45min",
   "description": "something for now",
   "image": "http://s3.amazonaws.com/auteurs_production/post_images/18612/APU_.jpg?1431333097"
+  }],
 
-  }]
+  "comments": [{
+    "username": "Bobby Kennedy",
+    "feedback": "Dope."
+    }]
 }
